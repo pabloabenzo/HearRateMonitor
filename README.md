@@ -1,1 +1,1 @@
-App de monitor de frecuencia cardiaca hecha en UIKit. Probada y funcional con un sensor de ritmo cardiaco y seguimiento de aptitud física "Polar H7".
+Heart rate monitor app built in UIKit and Bluetooth API. Tested and working with the Polar H7 heart rate and fitness tracker.
